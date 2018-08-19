@@ -192,7 +192,7 @@ function tasklistupdate(w, buttons, labelfunc, data, objects)
         local iconsrc = o.icon
 
         if iconsrc == nil or iconsrc == "" then
-            iconsrc = "/home/johannes/config/awesome/themes/current/icons/gnome/scalable/emblems/emblem-system-symbolic.svg"
+            iconsrc = "/home/johannes/.config/awesome/themes/current/icons/gnome/scalable/emblems/emblem-system-symbolic.svg"
         end
 
         -- Update background
